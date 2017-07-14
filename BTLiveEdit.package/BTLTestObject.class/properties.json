@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-TestData",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"align" ],
+	"name" : "BTLTestObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

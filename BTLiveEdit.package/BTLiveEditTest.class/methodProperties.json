@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"dummyEditableMethod:" : "TB 6/20/2017 10:55",
+		"setUp" : "TB 6/20/2017 10:54",
+		"tearDown" : "TB 6/20/2017 10:56",
+		"testInstallAllUninstallAll" : "TB 6/20/2017 11:15",
+		"testInstallOnCategory" : "TB 6/26/2017 14:47",
+		"testInstallTwiceErrors" : "TB 6/26/2017 14:47",
+		"testInstallUninstall" : "TB 6/26/2017 14:47" } }

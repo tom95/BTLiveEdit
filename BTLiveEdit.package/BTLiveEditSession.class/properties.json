@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"events" ],
+	"name" : "BTLiveEditSession",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

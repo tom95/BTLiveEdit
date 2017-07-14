@@ -1,0 +1,15 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceRange",
+		"timeStamp" ],
+	"name" : "BTLiveEditFromSource",
+	"pools" : [
+		 ],
+	"super" : "BTLiveEditEvent",
+	"type" : "normal" }

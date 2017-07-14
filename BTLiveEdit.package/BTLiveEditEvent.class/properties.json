@@ -1,0 +1,16 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"instance",
+		"selector",
+		"arguments" ],
+	"name" : "BTLiveEditEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

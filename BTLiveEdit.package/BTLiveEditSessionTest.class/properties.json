@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTLiveEditSessionTest",
+	"pools" : [
+		 ],
+	"super" : "BTLiveEditTestWithSession",
+	"type" : "normal" }
