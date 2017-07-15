@@ -2,8 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
+		"applyInSession:" : "TB 6/26/2017 15:47",
+		"buildNewMessageSendWithin:with:at:" : "TB 6/26/2017 15:50",
 		"isFromDoIt" : "TB 6/26/2017 11:54",
 		"source" : "TB 6/20/2017 11:58",
 		"source:" : "TB 6/20/2017 11:59",
 		"sourceReceiverContext" : "TB 6/20/2017 11:59",
-		"sourceReceiverContext:" : "TB 6/20/2017 11:59" } }
+		"sourceReceiverContext:" : "TB 6/20/2017 11:59",
+		"sourceWithoutReceiver" : "TB 6/26/2017 16:13" } }

@@ -9,4 +9,6 @@ testMessageSendsFromSource
 	
 	self assert: #align: identical: event selector.
 	self assert: BTLTestObject identical: event instance class.
-	self assert: (#((center center)) hasEqualElements: event arguments) description: 'arguments are the same'
+	self assert: (#((center center)) hasEqualElements: event arguments) description: 'arguments are the same'.
+	self assert: BTLTestObject identical: event sourceInstance class.
+	self assert: #initialize identical: event sourceSelector

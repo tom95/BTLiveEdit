@@ -7,4 +7,4 @@ testApplyChangeToConstant
 	
 	session applyChangesFor: object.
 	
-	self assert: ((self methodSource: #initialize of: BTLTestObject) includes: 'self align: #(end end)')
+	self assert: ((self methodSource: #initialize of: BTLTestObject) asString includesSubstring: 'self align: #(#end #end)')

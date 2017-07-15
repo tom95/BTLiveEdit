@@ -2,4 +2,7 @@ as yet unclassified
 setUp
 
 	super setUp.
-	self assert: ((self methodSource: #initialize of: BTLTestObject) includes: 'self align: #(center center)')
+	
+	self eventuallyReset: #initialize of: BTLTestObject.
+
+	self assert: ((self methodSource: #initialize of: BTLTestObject) asString includesSubstring: 'self align: #(center center)')

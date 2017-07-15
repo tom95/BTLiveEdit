@@ -1,4 +1,5 @@
 as yet unclassified
 setUp
 
-	session := BTLiveEditTracker installOnCategories: #(BTLiveEdit-TestData)
+	toBeReset := OrderedCollection new.
+	session := BTLiveEditTracker installOnCategories: #('BTLiveEdit-TestData')

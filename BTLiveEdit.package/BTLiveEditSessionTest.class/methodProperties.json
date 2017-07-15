@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "TB 6/22/2017 18:49",
-		"testApplyChangeToConstant" : "TB 6/22/2017 18:50",
-		"testApplyChangeToVariable" : "TB 6/22/2017 18:50",
-		"testDoItDoesNotChange" : "TB 6/22/2017 18:50" } }
+		"setUp" : "TB 6/26/2017 16:33",
+		"testApplyChangeToConstant" : "TB 6/26/2017 16:34",
+		"testApplyChangeToVariable" : "TB 6/26/2017 16:34",
+		"testDoItDoesNotChange" : "TB 6/26/2017 14:59" } }

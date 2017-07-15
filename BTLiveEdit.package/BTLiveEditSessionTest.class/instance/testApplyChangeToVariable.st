@@ -7,4 +7,4 @@ testApplyChangeToVariable
 	
 	session applyChangesFor: object.
 	
-	self assert: ((self methodSource: #initialize of: BTLTestObject) includes: 'self align: customAlign')
+	self assert: ((self methodSource: #initialize of: BTLTestObject) asString includesSubstring: 'self align: customAlign')

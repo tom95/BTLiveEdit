@@ -2,7 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
+		"applyChanges" : "TB 6/26/2017 17:22",
+		"applyChangesFor:" : "TB 6/26/2017 15:44",
 		"events" : "TB 6/20/2017 16:31",
+		"eventsWithoutDuplicates" : "TB 6/26/2017 15:55",
+		"findSourceEventMatching:" : "TB 6/26/2017 15:57",
 		"initialize" : "TB 6/20/2017 16:31",
 		"locateInstance:" : "TB 6/26/2017 12:02",
 		"registerEvent:" : "TB 6/20/2017 16:32" } }

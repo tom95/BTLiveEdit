@@ -2,9 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
+		"applyChangeFrom:" : "TB 6/26/2017 16:24",
 		"isFromSource" : "TB 6/26/2017 11:54",
-		"openInBrowser" : "TB 6/26/2017 14:43",
+		"openInBrowser" : "TB 6/26/2017 16:20",
+		"sourceInstance" : "TB 6/26/2017 16:20",
+		"sourceInstance:" : "TB 6/26/2017 16:20",
 		"sourceRange" : "TB 6/26/2017 14:43",
 		"sourceRange:" : "TB 6/26/2017 14:43",
+		"sourceSelector" : "TB 6/26/2017 16:20",
+		"sourceSelector:" : "TB 6/26/2017 16:20",
 		"timeStamp" : "TB 6/26/2017 14:52",
 		"timeStamp:" : "TB 6/26/2017 14:52" } }

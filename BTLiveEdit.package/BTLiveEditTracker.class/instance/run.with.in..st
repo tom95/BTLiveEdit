@@ -11,8 +11,10 @@ run: aSelector with: anArray in: aReceiver
 				instance: aReceiver;
 				selector: aSelector;
 				arguments: anArray;
+				sourceSelector: context selector;
+				sourceInstance: context receiver;
 				sourceRange: range;
-				timeStamp: method timeStamp;
+				timeStamp: context method timeStamp;
 				yourself]
 		ifNil: [ | cue |
 			" go up until we find the #DoIt that is sent to UndefinedObject"
