@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Session" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentMaxWidth" ],
+	"name" : "BTExplorer",
+	"pools" : [
+		 ],
+	"super" : "BTTopLevel",
+	"type" : "normal" }

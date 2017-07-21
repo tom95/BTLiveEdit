@@ -3,10 +3,13 @@
 		 },
 	"instance" : {
 		"applyChanges" : "TB 6/26/2017 17:22",
-		"applyChangesFor:" : "TB 6/26/2017 15:44",
+		"applyChangesFor:" : "TB 7/15/2017 11:48",
+		"constructionEvents" : "TB 7/15/2017 10:38",
 		"events" : "TB 6/20/2017 16:31",
 		"eventsWithoutDuplicates" : "TB 6/26/2017 15:55",
-		"findSourceEventMatching:" : "TB 6/26/2017 15:57",
+		"findConstructingEventFor:" : "TB 7/15/2017 11:08",
+		"findConstructingEventFor:ifFound:ifNone:" : "TB 7/15/2017 11:17",
+		"findSourceEventMatching:ifFound:ifNone:" : "TB 7/15/2017 11:05",
 		"initialize" : "TB 6/20/2017 16:31",
 		"locateInstance:" : "TB 6/26/2017 12:02",
 		"registerEvent:" : "TB 6/20/2017 16:32" } }

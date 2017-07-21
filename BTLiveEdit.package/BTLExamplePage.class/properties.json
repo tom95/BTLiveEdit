@@ -1,0 +1,17 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"text",
+		"submit",
+		"alert" ],
+	"name" : "BTLExamplePage",
+	"pools" : [
+		 ],
+	"super" : "BTTopLevel",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Session" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"value",
+		"indent",
+		"wrapper",
+		"lastPosition",
+		"children" ],
+	"name" : "BTExplorerItem",
+	"pools" : [
+		 ],
+	"super" : "BTClickable",
+	"type" : "normal" }

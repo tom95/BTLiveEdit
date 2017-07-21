@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTLInteger",
+	"pools" : [
+		 ],
+	"super" : "BTLPropertyModifierWithInterval",
+	"type" : "normal" }

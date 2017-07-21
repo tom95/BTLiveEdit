@@ -1,6 +1,9 @@
 {
 	"class" : {
-		 },
+		"createNodeSimple" : "TB 7/15/2017 10:41",
+		"createNodeSubclass" : "TB 7/15/2017 10:45",
+		"createNodeWrapped" : "TB 7/15/2017 10:41" },
 	"instance" : {
-		"align:" : "TB 6/20/2017 15:13",
-		"initialize" : "TB 6/26/2017 16:48" } }
+		"align:" : "TB 7/15/2017 09:57",
+		"initialize" : "TB 7/18/2017 18:19",
+		"spacing:" : "TB 7/15/2017 09:57" } }

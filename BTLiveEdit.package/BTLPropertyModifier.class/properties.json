@@ -1,0 +1,15 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widget",
+		"selector" ],
+	"name" : "BTLPropertyModifier",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

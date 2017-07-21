@@ -2,7 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "TB 6/26/2017 16:33",
+		"setUp" : "TB 7/15/2017 11:33",
+		"testAppendObject" : "TB 7/15/2017 09:56",
+		"testApplyAddingConstantAfterConstruction" : "TB 7/15/2017 11:04",
+		"testApplyAddingConstantInInitialize" : "TB 7/15/2017 11:01",
 		"testApplyChangeToConstant" : "TB 6/26/2017 16:34",
-		"testApplyChangeToVariable" : "TB 6/26/2017 16:34",
-		"testDoItDoesNotChange" : "TB 6/26/2017 14:59" } }
+		"testApplyChangeToUnknownVariable" : "TB 7/18/2017 14:53",
+		"testApplyChangeToVariable" : "TB 7/18/2017 16:51",
+		"testDoItDoesNotChange" : "TB 6/26/2017 14:59",
+		"testFindConstructionPlace" : "TB 7/15/2017 10:51" } }

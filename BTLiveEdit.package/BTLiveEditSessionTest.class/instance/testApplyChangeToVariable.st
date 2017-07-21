@@ -3,8 +3,8 @@ testApplyChangeToVariable
 
 	| object |
 	object := BTLTestObject new.
-	self doIt: 'self align: customAlign' withReceiver: object.
+	self doIt: 'self align: spacing' withReceiver: object.
 	
 	session applyChangesFor: object.
 	
-	self assert: ((self methodSource: #initialize of: BTLTestObject) asString includesSubstring: 'self align: customAlign')
+	self assert: ((self methodSource: #initialize of: BTLTestObject) asString includesSubstring: 'self align: spacing')

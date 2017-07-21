@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"align" ],
+		"align",
+		"spacing" ],
 	"name" : "BTLTestObject",
 	"pools" : [
 		 ],

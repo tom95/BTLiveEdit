@@ -1,0 +1,18 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"align",
+		"spacing",
+		"expand",
+		"disabled",
+		"minSize" ],
+	"name" : "BTLMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

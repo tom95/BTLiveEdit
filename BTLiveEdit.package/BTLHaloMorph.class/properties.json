@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"propertyModifiers" ],
+	"name" : "BTLHaloMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleHaloMorph",
+	"type" : "normal" }

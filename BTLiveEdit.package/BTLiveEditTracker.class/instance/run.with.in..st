@@ -5,17 +5,8 @@ run: aSelector with: anArray in: aReceiver
 	context := thisContext sender.
 	
 	session registerEvent: (context method getSourceFromFile
-		ifNotNilDo: [:source | | range |
-			range := (context debuggerMap rangeForPC: context pc contextIsActiveContext: false).
-			BTLiveEditFromSource new
-				instance: aReceiver;
-				selector: aSelector;
-				arguments: anArray;
-				sourceSelector: context selector;
-				sourceInstance: context receiver;
-				sourceRange: range;
-				timeStamp: context method timeStamp;
-				yourself]
+		ifNotNilDo: [:source | 
+			BTLiveEditFromSource newFromContext: context receiver: aReceiver arguments: anArray selector: aSelector]
 		ifNil: [ | cue |
 			" go up until we find the #DoIt that is sent to UndefinedObject"
 			[context selector == #DoIt] whileFalse: [context := context sender].

@@ -1,0 +1,16 @@
+{
+	"category" : "BTLiveEdit-TestData",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"children",
+		"label",
+		"color" ],
+	"name" : "BTLNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

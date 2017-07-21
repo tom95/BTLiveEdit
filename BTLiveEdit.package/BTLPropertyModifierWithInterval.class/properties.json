@@ -1,0 +1,16 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"from",
+		"to",
+		"step" ],
+	"name" : "BTLPropertyModifierWithInterval",
+	"pools" : [
+		 ],
+	"super" : "BTLPropertyModifier",
+	"type" : "normal" }

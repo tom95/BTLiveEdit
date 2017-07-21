@@ -8,4 +8,4 @@ doIt: aString withReceiver: anObjectOrNil
 		environment: Smalltalk globals
 		notifying: nil
 		ifFail: [self error: 'invalid string passed']
-		logged: true
+		logged: false
