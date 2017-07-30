@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"findConstructingContextFrom:for:" : "TB 7/15/2017 10:47",
+		"newFromContext:receiver:arguments:selector:" : "TB 7/30/2017 11:41" },
+	"instance" : {
+		"applyChangeFrom:in:" : "TB 7/30/2017 11:41",
+		"checkMethodTimestamp" : "TB 7/28/2017 14:29",
+		"isApplicationEvent" : "TB 7/30/2017 11:12",
+		"method" : "TB 7/28/2017 14:29",
+		"methodString" : "TB 7/15/2017 11:47",
+		"openInBrowser" : "TB 7/30/2017 11:41",
+		"sourceInstance" : "TB 6/26/2017 16:20",
+		"sourceInstance:" : "TB 6/26/2017 16:20",
+		"sourceInterval" : "TB 7/30/2017 11:40",
+		"sourceInterval:" : "TB 7/30/2017 11:40",
+		"sourceMethodString" : "TB 7/15/2017 11:47",
+		"sourceSelector" : "TB 6/26/2017 16:20",
+		"sourceSelector:" : "TB 6/26/2017 16:20",
+		"timeStamp" : "TB 6/26/2017 14:52",
+		"timeStamp:" : "TB 6/26/2017 14:52" } }

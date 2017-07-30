@@ -2,4 +2,6 @@ as yet unclassified
 setUp
 
 	toBeReset := OrderedCollection new.
-	session := BTLiveEditTracker installOnCategories: #('BTLiveEdit-TestData')
+	session := (BTLTracker installOnCategories: #('BTLiveEdit-TestData'))
+		checkImmutable: [:class :selector | class category == 'BTLiveEdit-Tests'];
+		yourself

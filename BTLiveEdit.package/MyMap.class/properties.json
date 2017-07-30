@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyMap",
+	"pools" : [
+		 ],
+	"super" : "BTLETileMap",
+	"type" : "normal" }

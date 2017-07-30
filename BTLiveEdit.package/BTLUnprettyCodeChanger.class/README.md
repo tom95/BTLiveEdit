@@ -1,0 +1,1 @@
+A BTLUnprettyCodeChanger is an implementation of a code changer that does not produce the most pretty code ever seen by human eyes if tasked with inserting code in methods. Updating code is quite okay for it though.

@@ -11,5 +11,5 @@
 	"name" : "BTLPropertyModifier",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "BTPage",
 	"type" : "normal" }

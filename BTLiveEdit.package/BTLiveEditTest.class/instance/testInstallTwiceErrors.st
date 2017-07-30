@@ -1,5 +1,5 @@
 as yet unclassified
 testInstallTwiceErrors
 
-	BTLiveEditTracker installOnCategories: #('BTLiveEdit-TestData').
-	self should: [BTLiveEditTracker installOnCategories: #('BTLiveEdit-TestData')] raise: Error
+	BTLTracker installOnCategories: #('BTLiveEdit-TestData').
+	self should: [BTLTracker installOnCategories: #('BTLiveEdit-TestData')] raise: Error

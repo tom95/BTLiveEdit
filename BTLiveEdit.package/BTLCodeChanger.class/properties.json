@@ -1,0 +1,17 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Session" ],
+	"commentStamp" : "TB 7/30/2017 11:26",
+	"instvars" : [
+		"session",
+		"methodReference",
+		"sourceInterval",
+		"liveEditEvent" ],
+	"name" : "BTLCodeChanger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

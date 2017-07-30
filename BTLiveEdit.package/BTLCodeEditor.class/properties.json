@@ -1,0 +1,17 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedClass",
+		"textMorph",
+		"selectedSelector",
+		"selection" ],
+	"name" : "BTLCodeEditor",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

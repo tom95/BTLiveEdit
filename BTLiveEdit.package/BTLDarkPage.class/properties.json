@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTLDarkPage",
+	"pools" : [
+		 ],
+	"super" : "BTPage",
+	"type" : "normal" }

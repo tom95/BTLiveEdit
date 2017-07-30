@@ -1,7 +1,7 @@
 as yet unclassified
 tearDown
 
-	BTLiveEditTracker uninstallOnCategories: #('BTLiveEdit-TestData').
+	BTLTracker uninstallOnCategories: #('BTLiveEdit-TestData').
 	
 	toBeReset do: [:assoc | | category reference source |
 		reference := assoc key.

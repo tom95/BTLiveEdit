@@ -9,4 +9,4 @@ testApplyAddingConstantAfterConstruction
 	session applyChangesFor: object.
 	
 	self assert: ((self methodSource: #initialize of: BTLMyGraph) asString
-		includesSubstring: 'addChild: (BTLNode new color: Color red)')
+		includesSubstring: 'addChild: ((BTLNode new) color: Color red)')

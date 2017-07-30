@@ -1,0 +1,16 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"events",
+		"applyImmediately",
+		"checkImmutable" ],
+	"name" : "BTLSession",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

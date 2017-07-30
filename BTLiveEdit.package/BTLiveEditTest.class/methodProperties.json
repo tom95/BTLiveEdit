@@ -3,9 +3,10 @@
 		 },
 	"instance" : {
 		"dummyEditableMethod:" : "TB 6/20/2017 10:55",
-		"setUp" : "TB 6/20/2017 10:54",
-		"tearDown" : "TB 6/20/2017 10:56",
-		"testInstallAllUninstallAll" : "TB 6/20/2017 11:15",
-		"testInstallOnCategory" : "TB 6/26/2017 14:58",
-		"testInstallTwiceErrors" : "TB 6/26/2017 14:58",
-		"testInstallUninstall" : "TB 6/26/2017 14:58" } }
+		"setUp" : "TB 7/30/2017 10:34",
+		"tearDown" : "TB 7/30/2017 10:34",
+		"testInstallAllUninstallAll" : "TB 7/30/2017 10:34",
+		"testInstallOnCategory" : "TB 7/30/2017 10:34",
+		"testInstallTwiceErrors" : "TB 7/30/2017 10:34",
+		"testInstallUninstall" : "TB 7/30/2017 10:34",
+		"testWidgetConnectSession" : "TB 7/30/2017 10:34" } }

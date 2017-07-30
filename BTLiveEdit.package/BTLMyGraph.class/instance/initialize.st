@@ -4,5 +4,5 @@ initialize
 	super initialize.
 	
 	self
-		label: 'Root';
-		addChild: BTLNode new
+		addChild: BTLNode new;
+		label: 'Root'

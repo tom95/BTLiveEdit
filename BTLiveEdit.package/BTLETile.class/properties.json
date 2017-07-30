@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTLETile",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

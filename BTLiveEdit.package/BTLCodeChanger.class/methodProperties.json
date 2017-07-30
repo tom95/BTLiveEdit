@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"affectedApplicationEventsDo:" : "TB 7/30/2017 11:17",
+		"insertAfterConstruction" : "TB 7/30/2017 10:57",
+		"insertAfterConstruction:" : "TB 7/30/2017 10:56",
+		"insertInConstructor" : "TB 7/30/2017 10:57",
+		"insertInConstructor:" : "TB 7/30/2017 10:57",
+		"liveEditEvent:" : "TB 7/30/2017 10:56",
+		"methodReference:" : "TB 7/30/2017 10:36",
+		"oldSource" : "TB 7/30/2017 11:16",
+		"replaceArguments" : "TB 7/30/2017 11:01",
+		"replaceArgumentsWith:" : "TB 7/30/2017 11:00",
+		"session:" : "TB 7/30/2017 10:35",
+		"sourceInterval:" : "TB 7/30/2017 10:36",
+		"tryUpdating:" : "TB 7/30/2017 13:52",
+		"updateMethodWith:" : "TB 7/30/2017 13:47" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TB 7/30/2017 11:23",
+	"instvars" : [
+		 ],
+	"name" : "BTLUnprettyCodeChanger",
+	"pools" : [
+		 ],
+	"super" : "BTLCodeChanger",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matchingClass",
+		"selectors",
+		"sourceExtractDo" ],
+	"name" : "BTLEStackMatcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -4,10 +4,16 @@
 	"instance" : {
 		"setUp" : "TB 7/15/2017 11:33",
 		"testAppendObject" : "TB 7/15/2017 09:56",
-		"testApplyAddingConstantAfterConstruction" : "TB 7/15/2017 11:04",
+		"testApplicationEventsUpdatedOnAfterConstruction" : "TB 7/30/2017 13:41",
+		"testApplicationEventsUpdatedOnReplaceArguments" : "TB 7/30/2017 13:44",
+		"testApplyAddingConstantAfterConstruction" : "TB 7/28/2017 14:41",
 		"testApplyAddingConstantInInitialize" : "TB 7/15/2017 11:01",
+		"testApplyAddingMultipleConstantsAfterConstruction" : "TB 7/28/2017 14:58",
+		"testApplyChangeImmediately" : "TB 7/30/2017 09:57",
 		"testApplyChangeToConstant" : "TB 6/26/2017 16:34",
 		"testApplyChangeToUnknownVariable" : "TB 7/18/2017 14:53",
 		"testApplyChangeToVariable" : "TB 7/18/2017 16:51",
+		"testApplyMultiple" : "TB 7/30/2017 13:54",
 		"testDoItDoesNotChange" : "TB 6/26/2017 14:59",
-		"testFindConstructionPlace" : "TB 7/15/2017 10:51" } }
+		"testFindConstructionPlace" : "TB 7/15/2017 10:51",
+		"testMarkImmutable" : "TB 7/30/2017 10:07" } }

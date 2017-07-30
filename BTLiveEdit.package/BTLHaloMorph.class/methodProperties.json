@@ -4,8 +4,7 @@
 	"instance" : {
 		"addHandles" : "TB 7/20/2017 18:34",
 		"addMetaActions" : "TB 7/20/2017 18:07",
-		"addPropertyModifiers" : "TB 7/20/2017 18:08",
-		"initialize" : "TB 7/20/2017 18:34",
-		"labelWidth" : "TB 7/20/2017 17:56",
+		"addPropertyModifiers" : "TB 7/21/2017 11:54",
+		"initialize" : "TB 7/23/2017 17:46",
 		"modifierBoxFor:widget:" : "TB 7/20/2017 17:57",
 		"targetLiveEditablePropertiesDo:" : "TB 7/20/2017 18:31" } }

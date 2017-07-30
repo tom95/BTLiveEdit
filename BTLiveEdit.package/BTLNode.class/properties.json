@@ -8,7 +8,8 @@
 	"instvars" : [
 		"children",
 		"label",
-		"color" ],
+		"color",
+		"align" ],
 	"name" : "BTLNode",
 	"pools" : [
 		 ],

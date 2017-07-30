@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTLETileMap",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }

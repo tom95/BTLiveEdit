@@ -1,4 +1,4 @@
 as yet unclassified
 tearDown
 
-	BTLiveEditTracker uninstallAll
+	BTLTracker uninstallAll

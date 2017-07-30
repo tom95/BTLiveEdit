@@ -3,10 +3,12 @@
 		"newWithLabel:" : "TB 7/15/2017 10:04" },
 	"instance" : {
 		"addChild:" : "TB 7/14/2017 21:43",
+		"align" : "TB 7/28/2017 14:48",
+		"align:" : "TB 7/28/2017 14:48",
 		"children" : "TB 7/14/2017 21:42",
 		"children:" : "TB 7/14/2017 21:42",
 		"color" : "TB 7/15/2017 10:58",
 		"color:" : "TB 7/15/2017 11:03",
-		"initialize" : "TB 7/18/2017 18:19",
+		"initialize" : "TB 7/30/2017 13:54",
 		"label" : "TB 7/14/2017 21:49",
 		"label:" : "TB 7/14/2017 21:50" } }

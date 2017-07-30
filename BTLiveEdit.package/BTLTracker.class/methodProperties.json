@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"classesInCategories:do:" : "TB 6/20/2017 11:08",
+		"dontforget" : "TB 7/29/2017 14:24",
+		"installAll" : "TB 7/30/2017 10:33",
+		"installAllFor:" : "TB 7/29/2017 14:16",
+		"installOn:for:" : "TB 6/20/2017 16:33",
+		"installOnCategories:" : "TB 7/30/2017 10:33",
+		"installOnCategories:for:" : "TB 7/29/2017 14:15",
+		"on:" : "TB 6/20/2017 13:14",
+		"uninstallAll" : "TB 7/30/2017 10:34",
+		"uninstallOnCategories:" : "TB 7/30/2017 10:34" },
+	"instance" : {
+		"at:" : "TB 7/30/2017 13:33",
+		"doesNotUnderstand:" : "TB 6/20/2017 10:31",
+		"flushCache" : "TB 6/20/2017 10:32",
+		"initializeOn:" : "TB 6/20/2017 10:32",
+		"installFor:" : "TB 7/29/2017 14:34",
+		"method" : "TB 6/26/2017 15:40",
+		"reference" : "TB 6/20/2017 10:32",
+		"run:with:in:" : "TB 7/30/2017 13:37",
+		"session" : "TB 6/20/2017 16:35",
+		"uninstall" : "TB 6/20/2017 10:32" } }

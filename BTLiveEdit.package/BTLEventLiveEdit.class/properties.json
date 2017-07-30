@@ -1,0 +1,15 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"sourceReceiverContext" ],
+	"name" : "BTLEventLiveEdit",
+	"pools" : [
+		 ],
+	"super" : "BTLEvent",
+	"type" : "normal" }

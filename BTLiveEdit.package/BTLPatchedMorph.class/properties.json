@@ -1,0 +1,14 @@
+{
+	"category" : "BTLiveEdit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTLPatchedMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

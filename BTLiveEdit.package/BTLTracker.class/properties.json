@@ -1,0 +1,16 @@
+{
+	"category" : "BTLiveEdit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Session" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"method",
+		"reference",
+		"session" ],
+	"name" : "BTLTracker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
