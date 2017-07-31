@@ -7,5 +7,5 @@ applyInSession: aSession
 		ifNone: [
 			aSession
 				findConstructingEventFor: self instance
-				ifFound: [:constructionEvent | self insertAfterConstruction: constructionEvent]
+				ifFound: [:constructionEvent | self insertAfterConstruction: constructionEvent in: aSession]
 				ifNone: [self insertInConstructor]]

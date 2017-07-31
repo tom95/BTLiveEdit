@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"applyInSession:" : "TB 7/30/2017 11:13",
+		"applyInSession:" : "TB 7/30/2017 14:00",
 		"buildNewMessageSendWithin:with:at:" : "TB 6/26/2017 15:50",
-		"insertAfterConstruction:" : "TB 7/30/2017 11:42",
+		"insertAfterConstruction:in:" : "TB 7/30/2017 14:03",
 		"insertInConstructor" : "TB 7/15/2017 11:48",
 		"isLiveEditEvent" : "TB 7/30/2017 11:12",
 		"source" : "TB 6/20/2017 11:58",
